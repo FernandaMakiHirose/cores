@@ -1,5 +1,6 @@
 # Meu portfólio - Fernanda Maki Hirose
-Jogo do Super Mario para responder o nome das cores em inglês usando a API de reconhecimento de voz. Teste o seu inglês e ganhe moedas conforme você responde corretamente o nome das cores.
+Jogo do Super Mario para responder o nome das cores em inglês usando a API de reconhecimento de voz. Teste o seu inglês e ganhe moedas conforme você responde corretamente o nome das cores. <br>
+Link do site: https://fernandamakihirose.github.io/jogo-super-mario/ 
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
